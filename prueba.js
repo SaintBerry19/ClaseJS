@@ -1,2 +1,2 @@
 console.log('Holaxd')
-console.log("chinga tu madre")
+console.log("adiosxd")
