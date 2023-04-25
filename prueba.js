@@ -1,2 +1,2 @@
-console.log('Holaxd')
-console.log("adiosxd")
+console.log('Hola')
+console.log("adios")
