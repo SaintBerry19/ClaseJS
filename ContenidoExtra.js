@@ -1,17 +1,3 @@
-// // Tipos de datos y variables
-// // String = cadena de caracteres
-// // Int = Numero Entero
-// // Float = Numero Decimal
-// // Boolean = 0 o 1, true o false
-// // Variable es lo que sea que se le asigne, en JS debes definir que tipo de variable estas creando:
-// // var (ya casi nadie lo usa), let (permite cambio en la variable), const (no permite cambio en la variable)
-
-// // let a = 4
-// console.log(a)
-// const a = 4 // dara un error
-// a= 6
-// console.log(a)
-
 // // Tipos de estructuras en JS
 // let array=[]
 // let objeto={}
